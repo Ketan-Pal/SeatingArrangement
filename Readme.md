@@ -1,1 +1,0 @@
-## this project is for creating a desktop application that hepls in seating arrangement plans
